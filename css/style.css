@@ -1297,7 +1297,7 @@ body {
     transition: all .3s ease;
   }
 
-  .footer-body-items .container--active > h6:after {
+  .footer-body-items .item-active > h6:after {
     display: inline-block;
     -webkit-transform: rotate(45deg);
         -ms-transform: rotate(45deg);
